@@ -1,16 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB: PTC PUNJABI
-https://streamflexsmm.in/SFlex-StarShare/171.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB | PTC PUNJABI
-https://streamflexsmm.in/SFlex-StarShare/606227.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB | PTC PUNJABI.
-https://streamflexsmm.in/SFlex-StarShare/606229.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB | PTC PUNJABI | AIRTEL
-https://streamflexsmm.in/SFlex-StarShare/606239.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB | PTC PUNJABI | UK
-https://streamflexsmm.in/SFlex-StarShare/606244.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB | PTC PUNJABI | USA
-https://streamflexsmm.in/SFlex-StarShare/606245.m3u8
+
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="INDIA | ENTERTAINMENT",IN: SONY (4K).
 https://streamflexsmm.in/SFlex-StarShare/98854.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="INDIA | ENTERTAINMENT",IN: SONY SAB (4K).
@@ -123,6 +112,18 @@ https://streamflexsmm.in/SFlex-StarShare/23564.m3u8
 https://streamflexsmm.in/SFlex-StarShare/23565.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | FOOTBALL",SONY Ten 2 HD
 https://streamflexsmm.in/SFlex-StarShare/192.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB: PTC PUNJABI
+https://streamflexsmm.in/SFlex-StarShare/171.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB | PTC PUNJABI
+https://streamflexsmm.in/SFlex-StarShare/606227.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB | PTC PUNJABI.
+https://streamflexsmm.in/SFlex-StarShare/606229.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB | PTC PUNJABI | AIRTEL
+https://streamflexsmm.in/SFlex-StarShare/606239.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB | PTC PUNJABI | UK
+https://streamflexsmm.in/SFlex-StarShare/606244.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI | TV",PB | PTC PUNJABI | USA
+https://streamflexsmm.in/SFlex-StarShare/606245.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="TAMIL | ENTERTAINMENT",Tamil: VIJAY TV (4K).
 https://streamflexsmm.in/SFlex-StarShare/98898.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROOIKSnDTq5SwY84Bh4uMzNquSleZdK2SnAA&usqp=CAU" group-title="TAMIL | ENTERTAINMENT",Tamil: VIJAY TV (FHD)
@@ -155,7 +156,7 @@ https://streamflexsmm.in/SFlex-StarShare/5886.m3u8
 https://streamflexsmm.in/SFlex-StarShare/57.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="TAMIL | MOVIES",Tamil: KTV (4K).
 https://streamflexsmm.in/SFlex-StarShare/98893.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | MOVIES",Tamil: KTV (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | MOVIES",Tamil: KTV (FHD)
 https://streamflexsmm.in/SFlex-StarShare/23318.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnHyfBX/download-6.png" group-title="TAMIL | MOVIES",TM: KTV HD
 https://streamflexsmm.in/SFlex-StarShare/160.m3u8
@@ -171,7 +172,7 @@ https://streamflexsmm.in/SFlex-StarShare/98899.m3u8
 https://streamflexsmm.in/SFlex-StarShare/23320.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QmNNQTY/1000x1000-Sun-TVHDDolby-Vision-155535-2312f9df-92b3-48dc-bd0d-761bd9c68a9c.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN TV HD
 https://streamflexsmm.in/SFlex-StarShare/158.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN TV HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TM: SUN TV HD
 https://streamflexsmm.in/SFlex-StarShare/5921.m3u8
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sun-TV-HD-Logo.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN TV HD
 https://streamflexsmm.in/SFlex-StarShare/5922.m3u8
@@ -183,27 +184,27 @@ https://streamflexsmm.in/SFlex-StarShare/98900.m3u8
 https://streamflexsmm.in/SFlex-StarShare/23321.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K67xjsm/sun-music-HD-black.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN MUSIC HD
 https://streamflexsmm.in/SFlex-StarShare/159.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TAMIL: SUN TV USA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TAMIL: SUN TV USA
 https://streamflexsmm.in/SFlex-StarShare/76343.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN MUSIC HD VIP (USA)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TM: SUN MUSIC HD VIP (USA)
 https://streamflexsmm.in/SFlex-StarShare/5920.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_musicBig.png/revision/latest?cb=20200217033512" group-title="TAMIL | ENTERTAINMENT",TAMIL: VIJAY MUSIC
 https://streamflexsmm.in/SFlex-StarShare/23869.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="TAMIL | MOVIES",TAMIL: ZEE THIRAI (4K)
 https://streamflexsmm.in/SFlex-StarShare/181966.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | MOVIES",TAMIL: Zee Thirai
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | MOVIES",TAMIL: Zee Thirai
 https://streamflexsmm.in/SFlex-StarShare/144636.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-UhBQgmp7gyI/UCkbz25X2OI/AAAAAAAAA70/DbPoAqxWOB4/s1600/sun_life_manisat_com.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN LIFE HD
 https://streamflexsmm.in/SFlex-StarShare/5919.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN LIFE HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TM: SUN LIFE HD
 https://streamflexsmm.in/SFlex-StarShare/5918.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YcpHPJD/download-14.png" group-title="TAMIL | ENTERTAINMENT",TM: SUN LIFE
 https://streamflexsmm.in/SFlex-StarShare/1612.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png" group-title="TAMIL | NEWS",TM: SUN NEWS
 https://streamflexsmm.in/SFlex-StarShare/1613.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | NEWS",TM: SUN NEWS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | NEWS",TM: SUN NEWS
 https://streamflexsmm.in/SFlex-StarShare/5924.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | NEWS",TM: POLIMER NEWS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | NEWS",TM: POLIMER NEWS
 https://streamflexsmm.in/SFlex-StarShare/5911.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPNHpqd/POLIMER-NEWS.png" group-title="TAMIL | NEWS",TM: POLIMER NEWS
 https://streamflexsmm.in/SFlex-StarShare/237.m3u8
@@ -211,7 +212,7 @@ https://streamflexsmm.in/SFlex-StarShare/237.m3u8
 https://streamflexsmm.in/SFlex-StarShare/1617.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XysbPp9/download-3-1.png" group-title="TAMIL | NEWS",TM: Kalaignar TV News
 https://streamflexsmm.in/SFlex-StarShare/5897.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | NEWS",Tamil: Sathiyam Tv news
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | NEWS",Tamil: Sathiyam Tv news
 https://streamflexsmm.in/SFlex-StarShare/256457.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="TAMIL | ENTERTAINMENT",TM: JAYA TV (4K)
 https://streamflexsmm.in/SFlex-StarShare/188.m3u8
@@ -221,7 +222,7 @@ https://streamflexsmm.in/SFlex-StarShare/5895.m3u8
 https://streamflexsmm.in/SFlex-StarShare/240.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgSD9Ry0/images-1.png" group-title="TAMIL | ENTERTAINMENT",TM: JAYA PLUS
 https://streamflexsmm.in/SFlex-StarShare/1615.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | MOVIES",TM: JAYA MOVIES
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | MOVIES",TM: JAYA MOVIES
 https://streamflexsmm.in/SFlex-StarShare/1618.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pv2fbyf/download-21.png" group-title="TAMIL | ENTERTAINMENT",TM: VENDHAR TV
 https://streamflexsmm.in/SFlex-StarShare/1624.m3u8
@@ -235,15 +236,15 @@ https://streamflexsmm.in/SFlex-StarShare/1619.m3u8
 https://streamflexsmm.in/SFlex-StarShare/1616.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png/revision/latest/scale-to-width-down/170?cb=20191220041016" group-title="TAMIL | NEWS",TM: NEWS 18 TAMIL NADU HD
 https://streamflexsmm.in/SFlex-StarShare/5906.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TM: PUTHIYA THALAIMURAI TV HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TM: PUTHIYA THALAIMURAI TV HD
 https://streamflexsmm.in/SFlex-StarShare/5910.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Puthuyugam_TV.gif" group-title="TAMIL | ENTERTAINMENT",TM: PUTHU YUGAmM TV
 https://streamflexsmm.in/SFlex-StarShare/5912.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" group-title="TAMIL | MOVIES",TM: SIRIPPOLI TV
 https://streamflexsmm.in/SFlex-StarShare/5932.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",Tamil: MEGA TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",Tamil: MEGA TV
 https://streamflexsmm.in/SFlex-StarShare/28141.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | MOVIES",Tamil: MEGA 24
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | MOVIES",Tamil: MEGA 24
 https://streamflexsmm.in/SFlex-StarShare/26163.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Mega_Musiq.jpeg/revision/latest/scale-to-width-down/250?cb=20191224093201" group-title="TAMIL | ENTERTAINMENT",Tamil: MEGA MUSIQ
 https://streamflexsmm.in/SFlex-StarShare/26164.m3u8
@@ -251,29 +252,29 @@ https://streamflexsmm.in/SFlex-StarShare/26164.m3u8
 https://streamflexsmm.in/SFlex-StarShare/26165.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="TAMIL | ENTERTAINMENT",TAMIL: MURASU TV
 https://streamflexsmm.in/SFlex-StarShare/29086.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",Tamil: D TAMIL
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",Tamil: D TAMIL
 https://streamflexsmm.in/SFlex-StarShare/26162.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TAMIL: TRAVEL XP
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TAMIL: TRAVEL XP
 https://streamflexsmm.in/SFlex-StarShare/9972.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m4CDwpf/SONY-BBC-EARTH.png" group-title="TAMIL | ENTERTAINMENT",TM: SONY BBC EARTH HD
 https://streamflexsmm.in/SFlex-StarShare/222.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | NEWS",TM: NEWS 7 TAMIL HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | NEWS",TM: NEWS 7 TAMIL HD
 https://streamflexsmm.in/SFlex-StarShare/5907.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | NEWS",TM: NEWS J
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | NEWS",TM: NEWS J
 https://streamflexsmm.in/SFlex-StarShare/5908.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="TAMIL | ENTERTAINMENT",Tamil: THANTHI TV
 https://streamflexsmm.in/SFlex-StarShare/111034.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",Tamil : Sri Sankara TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",Tamil : Sri Sankara TV
 https://streamflexsmm.in/SFlex-StarShare/153205.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-tamil-24x7-in.png" group-title="TAMIL | NEWS",TAMIL: News Tamil 24x7
 https://streamflexsmm.in/SFlex-StarShare/160589.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TM: PEPPERS TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TM: PEPPERS TV
 https://streamflexsmm.in/SFlex-StarShare/5909.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TAMIL: SRI SHANKARA TAMIL
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TAMIL: SRI SHANKARA TAMIL
 https://streamflexsmm.in/SFlex-StarShare/36653.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TAMIL: CHITHIRAM
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TAMIL: CHITHIRAM
 https://streamflexsmm.in/SFlex-StarShare/46743.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",Tamil: Chutti Tv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",Tamil: Chutti Tv
 https://streamflexsmm.in/SFlex-StarShare/85931.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mhk9HzK/download-11.png" group-title="TAMIL | TV",TM: AASTHA TAMIL HD
 https://streamflexsmm.in/SFlex-StarShare/5877.m3u8
@@ -389,7 +390,7 @@ https://streamflexsmm.in/SFlex-StarShare/979.m3u8
 https://streamflexsmm.in/SFlex-StarShare/218.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="INDIA | ENGLISH MOVIES",IN: SONY PIX HD
 https://streamflexsmm.in/SFlex-StarShare/147.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | ENGLISH MOVIES",IN: MN PLUS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | ENGLISH MOVIES",IN: MN PLUS
 https://streamflexsmm.in/SFlex-StarShare/178.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg" group-title="INDIA | ENGLISH MOVIES",IN: MNX HD
 https://streamflexsmm.in/SFlex-StarShare/191.m3u8
@@ -397,7 +398,7 @@ https://streamflexsmm.in/SFlex-StarShare/191.m3u8
 https://streamflexsmm.in/SFlex-StarShare/185.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" group-title="INDIA | ENGLISH MOVIES",IN: COLORS INFINITY HD
 https://streamflexsmm.in/SFlex-StarShare/187.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | ENGLISH MOVIES",IN: ZEECAFE HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | ENGLISH MOVIES",IN: ZEECAFE HD
 https://streamflexsmm.in/SFlex-StarShare/196.m3u8
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png" group-title="INDIA | DOCUMENTARY",IN: HISTORY HD
 https://streamflexsmm.in/SFlex-StarShare/180.m3u8
@@ -481,39 +482,39 @@ https://streamflexsmm.in/SFlex-StarShare/9029.m3u8
 https://streamflexsmm.in/SFlex-StarShare/169850.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/good-news-today-in.png" group-title="INDIA | NEWS",IN: Good news TV
 https://streamflexsmm.in/SFlex-StarShare/9041.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand:  Colors Kannada HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand:  Colors Kannada HD
 https://streamflexsmm.in/SFlex-StarShare/162.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand:  Colors Super
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand:  Colors Super
 https://streamflexsmm.in/SFlex-StarShare/163.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: Udaya TV HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: Udaya TV HD
 https://streamflexsmm.in/SFlex-StarShare/164.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3y8k7t/download-22.png" group-title="TELUGU | TV",Telugu: TV 5 News
 https://streamflexsmm.in/SFlex-StarShare/170.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yn807cB/download-21.png" group-title="TELUGU | TV",Telugu: STAR MAA TV HD
 https://streamflexsmm.in/SFlex-StarShare/168.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: CHANNEL I
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: CHANNEL I
 https://streamflexsmm.in/SFlex-StarShare/34665.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="BENGALI | TV",BD: ZEE BANGLA HD
 https://streamflexsmm.in/SFlex-StarShare/435.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" group-title="BENGALI | TV",BD: BANGLA VISION
 https://streamflexsmm.in/SFlex-StarShare/426.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_NTV Bangla HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_NTV Bangla HD
 https://streamflexsmm.in/SFlex-StarShare/424.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c6/63/b8/c663b8c78194a9d43844f3ec0007fc49.png" group-title="BENGALI | TV",BD_RTV HD
 https://streamflexsmm.in/SFlex-StarShare/401.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" group-title="BENGALI | TV",BD:Ekattor tv
 https://streamflexsmm.in/SFlex-StarShare/428.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_Somoy TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_Somoy TV
 https://streamflexsmm.in/SFlex-StarShare/422.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_Independent TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_Independent TV
 https://streamflexsmm.in/SFlex-StarShare/423.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BENGALI | TV",BD_DBC HD
 https://streamflexsmm.in/SFlex-StarShare/420.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BENGALI | TV",BD:DEEPTO TV
 https://streamflexsmm.in/SFlex-StarShare/1331.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: News 24 Tv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: News 24 Tv
 https://streamflexsmm.in/SFlex-StarShare/3810.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: Nagorik Tv HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: Nagorik Tv HD
 https://streamflexsmm.in/SFlex-StarShare/3802.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="BENGALI | TV",BD : Star Jalsa HD
 https://streamflexsmm.in/SFlex-StarShare/198.m3u8
@@ -521,11 +522,11 @@ https://streamflexsmm.in/SFlex-StarShare/198.m3u8
 https://streamflexsmm.in/SFlex-StarShare/183.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="BENGALI | TV",BD : SUN Bangla (4K)
 https://streamflexsmm.in/SFlex-StarShare/3753.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: ABP Ananda
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: ABP Ananda
 https://streamflexsmm.in/SFlex-StarShare/5436.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_Aakaash Aath
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_Aakaash Aath
 https://streamflexsmm.in/SFlex-StarShare/396.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: TIME TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: TIME TV
 https://streamflexsmm.in/SFlex-StarShare/2882.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VqQ1bBm/download-3.png" group-title="TELUGU | TV",Telugu: Gemini_Movies_HD
 https://streamflexsmm.in/SFlex-StarShare/212.m3u8
@@ -545,69 +546,69 @@ https://streamflexsmm.in/SFlex-StarShare/233.m3u8
 https://streamflexsmm.in/SFlex-StarShare/234.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RDK2ZtJ/download-2-3.png" group-title="TELUGU | TV",Telugu: NTV TELUGU
 https://streamflexsmm.in/SFlex-StarShare/235.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand:  Suvarna_News
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand:  Suvarna_News
 https://streamflexsmm.in/SFlex-StarShare/236.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VdZqgH/download-2-2.png" group-title="TELUGU | TV",Telugu: ETV Plus
 https://streamflexsmm.in/SFlex-StarShare/242.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TELUGU | TV",IN: Raj Music Telugu
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TELUGU | TV",IN: Raj Music Telugu
 https://streamflexsmm.in/SFlex-StarShare/243.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RMqwkk/download-3.png" group-title="TELUGU | TV",Telugu: Vissa TV
 https://streamflexsmm.in/SFlex-StarShare/244.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="INDIA | NEWS",IN: NDTV 24x7
 https://streamflexsmm.in/SFlex-StarShare/247.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_BOISAKHI HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_BOISAKHI HD
 https://streamflexsmm.in/SFlex-StarShare/390.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_CHANNEL 24 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_CHANNEL 24 HD
 https://streamflexsmm.in/SFlex-StarShare/391.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="BENGALI | TV",BD_Channel I UK
 https://streamflexsmm.in/SFlex-StarShare/392.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_Channel S
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_Channel S
 https://streamflexsmm.in/SFlex-StarShare/393.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_DESH TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_DESH TV
 https://streamflexsmm.in/SFlex-StarShare/394.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="BENGALI | TV",BD_MOHONA TV
 https://streamflexsmm.in/SFlex-StarShare/397.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="BENGALI | TV",BD_MY TV
 https://streamflexsmm.in/SFlex-StarShare/398.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_AnandaTV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_AnandaTV
 https://streamflexsmm.in/SFlex-StarShare/399.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="BENGALI | TV",BD_BANGLA TIMES
 https://streamflexsmm.in/SFlex-StarShare/402.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_RPlusGold
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_RPlusGold
 https://streamflexsmm.in/SFlex-StarShare/403.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_DHOOM MUSIC
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_DHOOM MUSIC
 https://streamflexsmm.in/SFlex-StarShare/404.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_Sangeet Bangali
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_Sangeet Bangali
 https://streamflexsmm.in/SFlex-StarShare/405.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_Discovery_Channel_Bengali
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_Discovery_Channel_Bengali
 https://streamflexsmm.in/SFlex-StarShare/406.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_Bijoy Tv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_Bijoy Tv
 https://streamflexsmm.in/SFlex-StarShare/408.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_Rupashi bangla
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_Rupashi bangla
 https://streamflexsmm.in/SFlex-StarShare/409.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_ZEE CINMEA Bangali
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_ZEE CINMEA Bangali
 https://streamflexsmm.in/SFlex-StarShare/410.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_Nexus TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_Nexus TV
 https://streamflexsmm.in/SFlex-StarShare/411.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BENGALI | TV",BD_Songsad TV FHD
 https://streamflexsmm.in/SFlex-StarShare/413.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_DESHITV HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_DESHITV HD
 https://streamflexsmm.in/SFlex-StarShare/414.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" group-title="BENGALI | TV",BD_Jamuna TV
 https://streamflexsmm.in/SFlex-StarShare/421.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/535/809/png-transparent-jalsha-movies-star-jalsha-television-show-star-india-sitarhd-purple-television-logo.png" group-title="BENGALI | TV",BD: STAR JALSHA MOVIES FHD
 https://streamflexsmm.in/SFlex-StarShare/425.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: ATN NEWS HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: ATN NEWS HD
 https://streamflexsmm.in/SFlex-StarShare/427.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="BENGALI | TV",BD: BOISAKHI HD
 https://streamflexsmm.in/SFlex-StarShare/429.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: ASIAN TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: ASIAN TV
 https://streamflexsmm.in/SFlex-StarShare/430.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: ATN BANGLA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: ATN BANGLA
 https://streamflexsmm.in/SFlex-StarShare/431.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg/revision/latest?cb=20190624161303" group-title="BENGALI | TV",BD_Duronto TV HD
 https://streamflexsmm.in/SFlex-StarShare/433.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD_Channel 9 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD_Channel 9 HD
 https://streamflexsmm.in/SFlex-StarShare/434.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ryc3Nzz/jus-One.png" group-title="PUNJABI | TV",PB: JUS Punjabi
 https://streamflexsmm.in/SFlex-StarShare/526.m3u8
@@ -657,7 +658,7 @@ https://streamflexsmm.in/SFlex-StarShare/555.m3u8
 https://streamflexsmm.in/SFlex-StarShare/557.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnLmKMZ/metelsky220700146.png" group-title="SPORTS | TENNIS",USA: Tennis Channel
 https://streamflexsmm.in/SFlex-StarShare/712.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: Gazi TV HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: Gazi TV HD
 https://streamflexsmm.in/SFlex-StarShare/767.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | FOOTBALL",SUPERSPORTS PSL (FHD)
 https://streamflexsmm.in/SFlex-StarShare/770.m3u8
@@ -669,47 +670,47 @@ https://streamflexsmm.in/SFlex-StarShare/982.m3u8
 https://streamflexsmm.in/SFlex-StarShare/988.m3u8
 #EXTINF:-1 tvg-logo="https://batv.gloss.agency/site/wp-content/uploads/2017/06/balogo.png" group-title="PUNJABI | TV",PB: Brit Asia HD
 https://streamflexsmm.in/SFlex-StarShare/989.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD : BTV NEWS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD : BTV NEWS
 https://streamflexsmm.in/SFlex-StarShare/998.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: iTV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: iTV
 https://streamflexsmm.in/SFlex-StarShare/999.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD : NRB TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD : NRB TV
 https://streamflexsmm.in/SFlex-StarShare/1000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BENGALI | TV",BD: Deepto
 https://streamflexsmm.in/SFlex-StarShare/1034.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: TIMES24 TV FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: TIMES24 TV FHD
 https://streamflexsmm.in/SFlex-StarShare/1035.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BENGALI | TV",BD: Maasranga TV
 https://streamflexsmm.in/SFlex-StarShare/1036.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:AMC TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:AMC TV
 https://streamflexsmm.in/SFlex-StarShare/1040.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:AVA Family
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:AVA Family
 https://streamflexsmm.in/SFlex-StarShare/1041.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:ATN News
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:ATN News
 https://streamflexsmm.in/SFlex-StarShare/1042.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Hewad TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Hewad TV
 https://streamflexsmm.in/SFlex-StarShare/1043.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Ariana TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Ariana TV
 https://streamflexsmm.in/SFlex-StarShare/1044.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Barbud Music
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Barbud Music
 https://streamflexsmm.in/SFlex-StarShare/1045.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Kayhan TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Kayhan TV
 https://streamflexsmm.in/SFlex-StarShare/1046.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Noor_TV_afg
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Noor_TV_afg
 https://streamflexsmm.in/SFlex-StarShare/1047.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Lemar TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Lemar TV
 https://streamflexsmm.in/SFlex-StarShare/1048.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG: Al Hurra_HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG: Al Hurra_HD
 https://streamflexsmm.in/SFlex-StarShare/1049.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Shamshad
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Shamshad
 https://streamflexsmm.in/SFlex-StarShare/1050.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Tamadon TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Tamadon TV
 https://streamflexsmm.in/SFlex-StarShare/1051.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Tolo News HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Tolo News HD
 https://streamflexsmm.in/SFlex-StarShare/1052.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Tolo TV HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Tolo TV HD
 https://streamflexsmm.in/SFlex-StarShare/1053.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG:Zarin TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG:Zarin TV
 https://streamflexsmm.in/SFlex-StarShare/1054.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4MyL6Q/download-10-1.png" group-title="PUNJABI | TV",PB:Sikh Channel USA
 https://streamflexsmm.in/SFlex-StarShare/1055.m3u8
@@ -735,7 +736,7 @@ https://streamflexsmm.in/SFlex-StarShare/1367.m3u8
 https://streamflexsmm.in/SFlex-StarShare/1368.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZPunjabHRHP.in.png" group-title="PUNJABI | TV",PB : Zee Punjabi News
 https://streamflexsmm.in/SFlex-StarShare/1373.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB : News18 Punjab/Haryana/Himachal
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB : News18 Punjab/Haryana/Himachal
 https://streamflexsmm.in/SFlex-StarShare/1374.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4MyL6Q/download-10-1.png" group-title="PUNJABI | TV",PB : SIKH Channel Usa
 https://streamflexsmm.in/SFlex-StarShare/1375.m3u8
@@ -743,7 +744,7 @@ https://streamflexsmm.in/SFlex-StarShare/1375.m3u8
 https://streamflexsmm.in/SFlex-StarShare/1378.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0f5tMc3/download-11.png" group-title="PUNJABI | TV",PB : SADA TV HD
 https://streamflexsmm.in/SFlex-StarShare/1379.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS | TENNIS",|CA| TSN 1 | HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="SPORTS | TENNIS",|CA| TSN 1 | HD
 https://streamflexsmm.in/SFlex-StarShare/1565.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9336p4j/download.png" group-title="TELUGU | TV",Telugu: Zee Telugu HD
 https://streamflexsmm.in/SFlex-StarShare/1605.m3u8
@@ -757,49 +758,49 @@ https://streamflexsmm.in/SFlex-StarShare/1920.m3u8
 https://streamflexsmm.in/SFlex-StarShare/2016.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="INDIA | NEWS",IN: NEWS 18 INDIA
 https://streamflexsmm.in/SFlex-StarShare/2436.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: DESHE BIDESHE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: DESHE BIDESHE
 https://streamflexsmm.in/SFlex-StarShare/2883.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: TV9Bangla
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: TV9Bangla
 https://streamflexsmm.in/SFlex-StarShare/2885.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",Guj:  Colors_Gujarati
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",Guj:  Colors_Gujarati
 https://streamflexsmm.in/SFlex-StarShare/3163.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: RTV Music
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: RTV Music
 https://streamflexsmm.in/SFlex-StarShare/3799.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: ATN Bangla uk
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: ATN Bangla uk
 https://streamflexsmm.in/SFlex-StarShare/3800.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: enter 10 bangla HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: enter 10 bangla HD
 https://streamflexsmm.in/SFlex-StarShare/3801.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: Bangla Tv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: Bangla Tv
 https://streamflexsmm.in/SFlex-StarShare/3803.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: Tv9 bangla
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: Tv9 bangla
 https://streamflexsmm.in/SFlex-StarShare/3804.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD : KHUSHBOO TV HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD : KHUSHBOO TV HD
 https://streamflexsmm.in/SFlex-StarShare/3808.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD : News 18 Bangla
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD : News 18 Bangla
 https://streamflexsmm.in/SFlex-StarShare/3811.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD : ETV TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD : ETV TV
 https://streamflexsmm.in/SFlex-StarShare/3813.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: SA Tv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: SA Tv
 https://streamflexsmm.in/SFlex-StarShare/3814.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: Sristy_TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: Sristy_TV
 https://streamflexsmm.in/SFlex-StarShare/3817.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD : BTvChattogram
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD : BTvChattogram
 https://streamflexsmm.in/SFlex-StarShare/3818.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: calcutta News
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: calcutta News
 https://streamflexsmm.in/SFlex-StarShare/3819.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="INDIA | NEWS",IN:  DD News (4K)
 https://streamflexsmm.in/SFlex-StarShare/4043.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",IN: DD Bangla
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",IN: DD Bangla
 https://streamflexsmm.in/SFlex-StarShare/4049.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lk5p3Zc/download-27.png" group-title="TELUGU | TV",Telugu: DD Saptagiri
 https://streamflexsmm.in/SFlex-StarShare/4053.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",Guj:  DD Girnar
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",Guj:  DD Girnar
 https://streamflexsmm.in/SFlex-StarShare/4055.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi: ZEE MARATHI HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi: ZEE MARATHI HD
 https://streamflexsmm.in/SFlex-StarShare/4066.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",IN: SONY Aath
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",IN: SONY Aath
 https://streamflexsmm.in/SFlex-StarShare/4083.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: GlobalTv_HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: GlobalTv_HD
 https://streamflexsmm.in/SFlex-StarShare/4231.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FKCqWpy/download-1-2.png" group-title="PUNJABI | TV",PB: Ekta TV Gurbani
 https://streamflexsmm.in/SFlex-StarShare/4426.m3u8
@@ -809,13 +810,13 @@ https://streamflexsmm.in/SFlex-StarShare/4427.m3u8
 https://streamflexsmm.in/SFlex-StarShare/4429.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKDNzC2/download-7.png" group-title="PUNJABI | TV",PB: CHANNEL Y
 https://streamflexsmm.in/SFlex-StarShare/4430.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: GURBANI HEALING
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: GURBANI HEALING
 https://streamflexsmm.in/SFlex-StarShare/4431.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRzL7wN/download-6.png" group-title="PUNJABI | TV",PB: PTC News (PUNJABI)
 https://streamflexsmm.in/SFlex-StarShare/4432.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GhzVVX/download-5.png" group-title="PUNJABI | TV",PB : Gurkibani TV
 https://streamflexsmm.in/SFlex-StarShare/4434.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: 7X Music  HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: 7X Music  HD
 https://streamflexsmm.in/SFlex-StarShare/4436.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G2RKfHh/download-3.png" group-title="PUNJABI | TV",PB:  DESI TV
 https://streamflexsmm.in/SFlex-StarShare/4437.m3u8
@@ -827,9 +828,9 @@ https://streamflexsmm.in/SFlex-StarShare/4442.m3u8
 https://streamflexsmm.in/SFlex-StarShare/4443.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | FOOTBALL",BEIN SPORT 1 HD
 https://streamflexsmm.in/SFlex-StarShare/4468.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG: Zhwandoon TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG: Zhwandoon TV
 https://streamflexsmm.in/SFlex-StarShare/5027.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="ASIA | AFGHANISTAN",AFG: 1 AFGHAN
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="ASIA | AFGHANISTAN",AFG: 1 AFGHAN
 https://streamflexsmm.in/SFlex-StarShare/5028.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuR_kF8fYxhcL_qxXuR6697bxKFmLcEJUpmoN_yP4iTTHmO2sLqrduhl-iWKvEJ7IcOrk&usqp=CAU" group-title="SPORTS | FOX AUSTRALIA",AU: Fox Sports 501
 https://streamflexsmm.in/SFlex-StarShare/4748.m3u8
@@ -839,73 +840,73 @@ https://streamflexsmm.in/SFlex-StarShare/4749.m3u8
 https://streamflexsmm.in/SFlex-StarShare/4750.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/1200px-Fox_Footy_logo_%282015%29.svg.png" group-title="SPORTS | FOX AUSTRALIA",AU: Fox Sports 504
 https://streamflexsmm.in/SFlex-StarShare/4751.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS | FOX AUSTRALIA",AU: Fox Sports 505
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="SPORTS | FOX AUSTRALIA",AU: Fox Sports 505
 https://streamflexsmm.in/SFlex-StarShare/4752.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORTS | FOX AUSTRALIA",AU: Fox Sports 506
 https://streamflexsmm.in/SFlex-StarShare/4753.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS | FOX AUSTRALIA",AU: Fox Sports 507
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="SPORTS | FOX AUSTRALIA",AU: Fox Sports 507
 https://streamflexsmm.in/SFlex-StarShare/4754.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="INDIA | NEWS",IN:  Aaj_Tak
 https://streamflexsmm.in/SFlex-StarShare/5409.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS | FOX AUSTRALIA",AU: Fox Sports News
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="SPORTS | FOX AUSTRALIA",AU: Fox Sports News
 https://streamflexsmm.in/SFlex-StarShare/5442.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCUhK4615DAMdlWP1CFQIiAqg3YIDfGF1WgAqo3Z4cR-DXCSTrhA-o9bCLVYiIEghTPPtiYmF0OGjWO7oOkSXrMSn1ecUnsm-PWWU5&usqp=CAU&ec=45688581" group-title="PUNJABI | TV",IN: BRIT ASIA
 https://streamflexsmm.in/SFlex-StarShare/5464.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/rugby.png" group-title="SPORTS | RUGBY",ASTRO SUPER SPORTS 2 HD
 https://streamflexsmm.in/SFlex-StarShare/5481.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ:ABP Asmita HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ:ABP Asmita HD
 https://streamflexsmm.in/SFlex-StarShare/5832.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GuJ:Zee 24 Kalak HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GuJ:Zee 24 Kalak HD
 https://streamflexsmm.in/SFlex-StarShare/5833.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ:SANSKAR TV HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ:SANSKAR TV HD
 https://streamflexsmm.in/SFlex-StarShare/5834.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ:NEWS 18 GUJARATI HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ:NEWS 18 GUJARATI HD
 https://streamflexsmm.in/SFlex-StarShare/5836.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ: TV9 GUJARATI HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ: TV9 GUJARATI HD
 https://streamflexsmm.in/SFlex-StarShare/5837.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ:CNBC Bajar GUJRATI HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ:CNBC Bajar GUJRATI HD
 https://streamflexsmm.in/SFlex-StarShare/5838.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",Guj: GSTV HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",Guj: GSTV HD
 https://streamflexsmm.in/SFlex-StarShare/5840.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",Guj:Sandesh News HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",Guj:Sandesh News HD
 https://streamflexsmm.in/SFlex-StarShare/5844.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ:India News Gujrat(lk)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ:India News Gujrat(lk)
 https://streamflexsmm.in/SFlex-StarShare/5847.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ:Mantavya News Gujrat
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ:Mantavya News Gujrat
 https://streamflexsmm.in/SFlex-StarShare/5848.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",Guj:Colors Gujarati
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",Guj:Colors Gujarati
 https://streamflexsmm.in/SFlex-StarShare/5850.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxFhDS2L3sSEl-QryHOU0sQnuRVK5acyaI2AQ=s100-c-k-c0xffffffff-no-rj-mo" group-title="GUJARATI | TV",Guj:VTV NEWS
 https://streamflexsmm.in/SFlex-StarShare/5853.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi: Sony Marathi HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi: Sony Marathi HD
 https://streamflexsmm.in/SFlex-StarShare/5856.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:9x Jhakaas  HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:9x Jhakaas  HD
 https://streamflexsmm.in/SFlex-StarShare/5858.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:ABP Majha
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:ABP Majha
 https://streamflexsmm.in/SFlex-StarShare/5859.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:DD Sahyadri HD(lk)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:DD Sahyadri HD(lk)
 https://streamflexsmm.in/SFlex-StarShare/5860.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:Fakt marathi
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:Fakt marathi
 https://streamflexsmm.in/SFlex-StarShare/5861.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:News18 Lokmat
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:News18 Lokmat
 https://streamflexsmm.in/SFlex-StarShare/5862.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:TV9 Marathi HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:TV9 Marathi HD
 https://streamflexsmm.in/SFlex-StarShare/5863.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:Sangeet Marathi(lk)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:Sangeet Marathi(lk)
 https://streamflexsmm.in/SFlex-StarShare/5864.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:Zee Yuva
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:Zee Yuva
 https://streamflexsmm.in/SFlex-StarShare/5866.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:Zee Marathi HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:Zee Marathi HD
 https://streamflexsmm.in/SFlex-StarShare/5867.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:Zee  24 Taas
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:Zee  24 Taas
 https://streamflexsmm.in/SFlex-StarShare/5868.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi: ZEE Marathi (usa)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi: ZEE Marathi (usa)
 https://streamflexsmm.in/SFlex-StarShare/5869.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:Zee Talkies HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:Zee Talkies HD
 https://streamflexsmm.in/SFlex-StarShare/5871.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.colorsmarathi.com/wp-content/uploads/2020/02/25140832/CM-Logo-without-Petal.png" group-title="MARATHI | TV",Marathi:Colors:Marathi
 https://streamflexsmm.in/SFlex-StarShare/5872.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi:Star Parvaha FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi:Star Parvaha FHD
 https://streamflexsmm.in/SFlex-StarShare/5874.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | FOOTBALL",SKY SPORTS FOOTBALL
 https://streamflexsmm.in/SFlex-StarShare/19.m3u8
@@ -919,7 +920,7 @@ https://streamflexsmm.in/SFlex-StarShare/286.m3u8
 https://streamflexsmm.in/SFlex-StarShare/5029.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | FOOTBALL",Premier Sports 2
 https://streamflexsmm.in/SFlex-StarShare/5030.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: Zee Rajasthan news
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: Zee Rajasthan news
 https://streamflexsmm.in/SFlex-StarShare/7063.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="INDIA | NEWS",IN: Zee News
 https://streamflexsmm.in/SFlex-StarShare/7259.m3u8
@@ -939,7 +940,7 @@ https://streamflexsmm.in/SFlex-StarShare/7436.m3u8
 https://streamflexsmm.in/SFlex-StarShare/7437.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnLmKMZ/metelsky220700146.png" group-title="SPORTS | TENNIS",DSTV : SuperSport Tennis (FHD)
 https://streamflexsmm.in/SFlex-StarShare/7603.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: Star Jalsa (HD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: Star Jalsa (HD)
 https://streamflexsmm.in/SFlex-StarShare/8540.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="TELUGU | TV",Telugu: STAR MAA MOVIES HD
 https://streamflexsmm.in/SFlex-StarShare/9015.m3u8
@@ -955,13 +956,13 @@ https://streamflexsmm.in/SFlex-StarShare/9019.m3u8
 https://streamflexsmm.in/SFlex-StarShare/9020.m3u8
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/JMOV-logo.png" group-title="TAMIL | MOVIES",TM: J MOVIES
 https://streamflexsmm.in/SFlex-StarShare/9022.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TM: MALAI MURASU TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TM: MALAI MURASU TV
 https://streamflexsmm.in/SFlex-StarShare/9023.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Raj_Musix_Tamil.jpeg/revision/latest?cb=20191227071716" group-title="TAMIL | ENTERTAINMENT",TM: RAJ MUSIX TAMIL
 https://streamflexsmm.in/SFlex-StarShare/9024.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CQhttzT/download-25.png" group-title="TELUGU | TV",Telugu: GEMINI COMEDY HD
 https://streamflexsmm.in/SFlex-StarShare/9042.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TELUGU | TV",Telugu: STAR MAA GOLD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TELUGU | TV",Telugu: STAR MAA GOLD
 https://streamflexsmm.in/SFlex-StarShare/9043.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vXYWqvD/download-24.png" group-title="TELUGU | TV",Telugu: GEMINI LIFE HD
 https://streamflexsmm.in/SFlex-StarShare/9044.m3u8
@@ -977,13 +978,13 @@ https://streamflexsmm.in/SFlex-StarShare/9048.m3u8
 https://streamflexsmm.in/SFlex-StarShare/9049.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrtbTfN/download-19.png" group-title="TELUGU | TV",Telugu: ETV Telangana
 https://streamflexsmm.in/SFlex-StarShare/9050.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TELUGU | TV",Telugu: ETV Life
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TELUGU | TV",Telugu: ETV Life
 https://streamflexsmm.in/SFlex-StarShare/9052.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nr1Kz3J/download-5.png" group-title="TELUGU | TV",Telugu: ETV Abhiruchi
 https://streamflexsmm.in/SFlex-StarShare/9053.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjCHLvw/download-2.png" group-title="TELUGU | TV",Telugu: SVBC HD
 https://streamflexsmm.in/SFlex-StarShare/9054.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN:Republic TV (English)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN:Republic TV (English)
 https://streamflexsmm.in/SFlex-StarShare/9056.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="INDIA | NEWS",IN: Republic TV HD
 https://streamflexsmm.in/SFlex-StarShare/9080.m3u8
@@ -993,13 +994,13 @@ https://streamflexsmm.in/SFlex-StarShare/9116.m3u8
 https://streamflexsmm.in/SFlex-StarShare/9117.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="INDIA | ENGLISH MOVIES",IN: SONY PIX (FHD)
 https://streamflexsmm.in/SFlex-StarShare/9381.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | ENGLISH MOVIES",IN: MN+ (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | ENGLISH MOVIES",IN: MN+ (FHD)
 https://streamflexsmm.in/SFlex-StarShare/9383.m3u8
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="INDIA | ENGLISH MOVIES",IN: STAR MOVIES (FHD)
 https://streamflexsmm.in/SFlex-StarShare/9384.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1280px-TLC-HD-Logo_2016.svg.png" group-title="INDIA | ENGLISH MOVIES",IN: TLC (FHD)
 https://streamflexsmm.in/SFlex-StarShare/9388.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | ENGLISH MOVIES",IN: ZEE Cafe (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | ENGLISH MOVIES",IN: ZEE Cafe (FHD)
 https://streamflexsmm.in/SFlex-StarShare/9389.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" group-title="INDIA | ENGLISH MOVIES",IN: Colors INFINITY (FHD)
 https://streamflexsmm.in/SFlex-StarShare/9390.m3u8
@@ -1019,43 +1020,43 @@ https://streamflexsmm.in/SFlex-StarShare/9396.m3u8
 https://streamflexsmm.in/SFlex-StarShare/9400.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="SPORTS | INDIA",IN: Star Sports Select 2 (FHD)
 https://streamflexsmm.in/SFlex-StarShare/9401.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS | INDIA",IN: Sony Ten 1 (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="SPORTS | INDIA",IN: Sony Ten 1 (FHD)
 https://streamflexsmm.in/SFlex-StarShare/9402.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="SPORTS | INDIA",IN: Sony Ten 2 (4K)
 https://streamflexsmm.in/SFlex-StarShare/9403.m3u8
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" group-title="SPORTS | INDIA",IN: Sony Ten 3 (FHD)
 https://streamflexsmm.in/SFlex-StarShare/9404.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand:Ayush TV HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand:Ayush TV HD
 https://streamflexsmm.in/SFlex-StarShare/9439.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand:Colors Kannada Cinema HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand:Colors Kannada Cinema HD
 https://streamflexsmm.in/SFlex-StarShare/9440.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: News18 Kannada HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: News18 Kannada HD
 https://streamflexsmm.in/SFlex-StarShare/9441.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: Public_TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: Public_TV
 https://streamflexsmm.in/SFlex-StarShare/9443.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: Suvarna News HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: Suvarna News HD
 https://streamflexsmm.in/SFlex-StarShare/9444.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: TV5 News HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: TV5 News HD
 https://streamflexsmm.in/SFlex-StarShare/9445.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: Tv9 Kannada (News)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: Tv9 Kannada (News)
 https://streamflexsmm.in/SFlex-StarShare/9446.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: UDAYA COMEDY FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: UDAYA COMEDY FHD
 https://streamflexsmm.in/SFlex-StarShare/9447.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: UDAYA MOVIES FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: UDAYA MOVIES FHD
 https://streamflexsmm.in/SFlex-StarShare/9448.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: UDAYA TV FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: UDAYA TV FHD
 https://streamflexsmm.in/SFlex-StarShare/9449.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: UDAYA TV FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: UDAYA TV FHD
 https://streamflexsmm.in/SFlex-StarShare/9450.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: UDAYA TV FHD-(usa)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: UDAYA TV FHD-(usa)
 https://streamflexsmm.in/SFlex-StarShare/9451.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="KANNADA | TV",Kand: ZEE Picchar (4K)
 https://streamflexsmm.in/SFlex-StarShare/9452.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kand: Zee Kannada HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kand: Zee Kannada HD
 https://streamflexsmm.in/SFlex-StarShare/9453.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="INDIA | NEWS",IN: WION TV
 https://streamflexsmm.in/SFlex-StarShare/9481.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: Zee MP (News)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: Zee MP (News)
 https://streamflexsmm.in/SFlex-StarShare/9725.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | FOOTBALL",Sky Sports Premier League HD
 https://streamflexsmm.in/SFlex-StarShare/9891.m3u8
@@ -1063,7 +1064,7 @@ https://streamflexsmm.in/SFlex-StarShare/9891.m3u8
 https://streamflexsmm.in/SFlex-StarShare/9974.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORTS | INDIA",IN: SONY TEN 5 (FHD)
 https://streamflexsmm.in/SFlex-StarShare/17565.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",IN: Travelxp HD (BANGLA)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",IN: Travelxp HD (BANGLA)
 https://streamflexsmm.in/SFlex-StarShare/20622.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/340?cb=20190224050806" group-title="BENGALI | TV",BD: Star Jalsha (FHD)
 https://streamflexsmm.in/SFlex-StarShare/23218.m3u8
@@ -1071,13 +1072,13 @@ https://streamflexsmm.in/SFlex-StarShare/23218.m3u8
 https://streamflexsmm.in/SFlex-StarShare/23247.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="INDIA | NEWS",IN:  India News
 https://streamflexsmm.in/SFlex-StarShare/23248.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | ENGLISH MOVIES",IN: STAR MOVIES SELECT (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | ENGLISH MOVIES",IN: STAR MOVIES SELECT (FHD)
 https://streamflexsmm.in/SFlex-StarShare/23270.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest/scale-to-width-down/340?cb=20190806073703" group-title="BENGALI | TV",BD: JALSHA MOVIES (FHD)
 https://streamflexsmm.in/SFlex-StarShare/23304.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: ZEE BANGLA (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: ZEE BANGLA (FHD)
 https://streamflexsmm.in/SFlex-StarShare/23305.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: COLORS BANGLA (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: COLORS BANGLA (FHD)
 https://streamflexsmm.in/SFlex-StarShare/23306.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="SPORTS | INDIA",IN: EUROSPORTS (4K)
 https://streamflexsmm.in/SFlex-StarShare/23308.m3u8
@@ -1101,7 +1102,7 @@ https://streamflexsmm.in/SFlex-StarShare/23323.m3u8
 https://streamflexsmm.in/SFlex-StarShare/23428.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="INDIA | NEWS",IN: AAJTAK (4K)
 https://streamflexsmm.in/SFlex-StarShare/23795.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",MARATHI: COLORS-MARATHI (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",MARATHI: COLORS-MARATHI (FHD)
 https://streamflexsmm.in/SFlex-StarShare/23798.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Star_Pravah.jpeg/revision/latest?cb=20150713235613" group-title="MARATHI | TV",Marathi: STAR-PRAVAH (FHD)
 https://streamflexsmm.in/SFlex-StarShare/23799.m3u8
@@ -1119,9 +1120,9 @@ https://streamflexsmm.in/SFlex-StarShare/23345.m3u8
 https://streamflexsmm.in/SFlex-StarShare/23348.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | FOOTBALL",LFC TV FHD
 https://streamflexsmm.in/SFlex-StarShare/24114.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kannada: UDAYA (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kannada: UDAYA (FHD)
 https://streamflexsmm.in/SFlex-StarShare/24124.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kannada: ZEE-KANNADA (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kannada: ZEE-KANNADA (FHD)
 https://streamflexsmm.in/SFlex-StarShare/24125.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="INDIA | NEWS",SADHNA TV
 https://streamflexsmm.in/SFlex-StarShare/25076.m3u8
@@ -1143,7 +1144,7 @@ https://streamflexsmm.in/SFlex-StarShare/35714.m3u8
 https://streamflexsmm.in/SFlex-StarShare/37071.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnLmKMZ/metelsky220700146.png" group-title="SPORTS | TENNIS",Tennis Channel Plus 5 HD ( LIVE EVENT )
 https://streamflexsmm.in/SFlex-StarShare/40516.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: ZEE BANGLA CINEMA
 https://streamflexsmm.in/SFlex-StarShare/49615.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZPunjabHRHP.in.png" group-title="PUNJABI | TV",PB: ZEE PUNJABI
 https://streamflexsmm.in/SFlex-StarShare/52082.m3u8
@@ -1151,11 +1152,11 @@ https://streamflexsmm.in/SFlex-StarShare/52082.m3u8
 https://streamflexsmm.in/SFlex-StarShare/52500.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xMfFBH4/download-2.png" group-title="TELUGU | TV",TELUGU:  RAJ NEWS
 https://streamflexsmm.in/SFlex-StarShare/52504.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | ENGLISH MOVIES",IN: ROMEDY NOW HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | ENGLISH MOVIES",IN: ROMEDY NOW HD
 https://streamflexsmm.in/SFlex-StarShare/179.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" group-title="KANNADA | TV",KANNADA: Asianet Suvarna News
 https://streamflexsmm.in/SFlex-StarShare/56037.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TELUGU | TV",TELUGU: Star Maa Music
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TELUGU | TV",TELUGU: Star Maa Music
 https://streamflexsmm.in/SFlex-StarShare/57772.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="TELUGU | TV",Telugu: GEMINI MOVIE (4K)
 https://streamflexsmm.in/SFlex-StarShare/23797.m3u8
@@ -1163,9 +1164,9 @@ https://streamflexsmm.in/SFlex-StarShare/23797.m3u8
 https://streamflexsmm.in/SFlex-StarShare/23796.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="INDIA | DOCUMENTARY",IN: INVESTIGATION DISCOVERY (4K)
 https://streamflexsmm.in/SFlex-StarShare/23790.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi: ZEE Marathi (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi: ZEE Marathi (FHD)
 https://streamflexsmm.in/SFlex-StarShare/85694.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi: ZEE TALKIES (FHD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi: ZEE TALKIES (FHD)
 https://streamflexsmm.in/SFlex-StarShare/85695.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="MARATHI | TV",Marathi: Pravah Picture (4K)
 https://streamflexsmm.in/SFlex-StarShare/96364.m3u8
@@ -1187,17 +1188,17 @@ https://streamflexsmm.in/SFlex-StarShare/768.m3u8
 https://streamflexsmm.in/SFlex-StarShare/771.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | FOOTBALL",BEIN SPORTS English 1 (4k)
 https://streamflexsmm.in/SFlex-StarShare/138713.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | DOCUMENTARY",TravelXp HD (ENG)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | DOCUMENTARY",TravelXp HD (ENG)
 https://streamflexsmm.in/SFlex-StarShare/143205.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: Zee24Ghanta
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: Zee24Ghanta
 https://streamflexsmm.in/SFlex-StarShare/144510.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",Kannada: Suvarna Plus
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",Kannada: Suvarna Plus
 https://streamflexsmm.in/SFlex-StarShare/150701.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="INDIA | ENGLISH MOVIES",IN: Movies Now (4K)
 https://streamflexsmm.in/SFlex-StarShare/152387.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="INDIA | NEWS",IN: TimesNow NavaBharat (4K)
 https://streamflexsmm.in/SFlex-StarShare/155585.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: GNT NEWS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: GNT NEWS
 https://streamflexsmm.in/SFlex-StarShare/156011.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/rugby.png" group-title="SPORTS | RUGBY",SuperSport Grandstand (FHD).
 https://streamflexsmm.in/SFlex-StarShare/158441.m3u8
@@ -1207,19 +1208,19 @@ https://streamflexsmm.in/SFlex-StarShare/186596.m3u8
 https://streamflexsmm.in/SFlex-StarShare/186617.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/rugby.png" group-title="SPORTS | RUGBY",SKY SPORTS ACTION FHD
 https://streamflexsmm.in/SFlex-StarShare/186618.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",KN: Republic News Kannada
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",KN: Republic News Kannada
 https://streamflexsmm.in/SFlex-StarShare/252457.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/rugby.png" group-title="SPORTS | RUGBY",TNT SPORT 4 FHD
 https://streamflexsmm.in/SFlex-StarShare/255259.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: Color Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: Color Bangla Cinema
 https://streamflexsmm.in/SFlex-StarShare/271038.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS | TENNIS",beIN Sport English 1 4k
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="SPORTS | TENNIS",beIN Sport English 1 4k
 https://streamflexsmm.in/SFlex-StarShare/274141.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jothi-tv-in.png" group-title="TAMIL | TV",TM: JothiTV
 https://streamflexsmm.in/SFlex-StarShare/296241.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="MARATHI | TV",MARATHI: SUN MARATHI (4K)
 https://streamflexsmm.in/SFlex-StarShare/310644.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",MARATHI: Saam Tv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",MARATHI: Saam Tv
 https://streamflexsmm.in/SFlex-StarShare/337784.m3u8
 #EXTINF:-1 tvg-logo="https://f.top4top.io/p_3065p9lst1.jpg" group-title="MARATHI | TV",MARATHI: SHEMAROO MARATHI
 https://streamflexsmm.in/SFlex-StarShare/338882.m3u8
@@ -1233,127 +1234,127 @@ https://streamflexsmm.in/SFlex-StarShare/343021.m3u8
 https://streamflexsmm.in/SFlex-StarShare/343023.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PzgKhRQm/News-Malayalam-24x7-1.png" group-title="MALAYALAM | NEWS",MAL | NEWS MALAYALAM 24x7
 https://streamflexsmm.in/SFlex-StarShare/354290.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TELUGU | TV",Telugu: Aradana SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TELUGU | TV",Telugu: Aradana SD
 https://streamflexsmm.in/SFlex-StarShare/355093.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: Bharat 24
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: Bharat 24
 https://streamflexsmm.in/SFlex-StarShare/355094.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: Bharat Samachar SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: Bharat Samachar SD
 https://streamflexsmm.in/SFlex-StarShare/355095.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ: Colors Gujarati Cinema SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ: Colors Gujarati Cinema SD
 https://streamflexsmm.in/SFlex-StarShare/355258.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: INH 24X7 SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: INH 24X7 SD
 https://streamflexsmm.in/SFlex-StarShare/355487.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ: India News Gujarat SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ: India News Gujarat SD
 https://streamflexsmm.in/SFlex-StarShare/355493.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3BvTdG/images-1.png" group-title="TELUGU | TV",TELUGU: Kushi TV SD
 https://streamflexsmm.in/SFlex-StarShare/355504.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: News 24 SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: News 24 SD
 https://streamflexsmm.in/SFlex-StarShare/355507.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: News India 24x7 SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: News India 24x7 SD
 https://streamflexsmm.in/SFlex-StarShare/355509.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: News State MP CG SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: News State MP CG SD
 https://streamflexsmm.in/SFlex-StarShare/355510.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: News18 MP Chhattisgarh SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: News18 MP Chhattisgarh SD
 https://streamflexsmm.in/SFlex-StarShare/355511.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="BENGALI | TV",BD: 24 Ghanta SD
 https://streamflexsmm.in/SFlex-StarShare/355540.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",KAN: Ayush TV SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",KAN: Ayush TV SD
 https://streamflexsmm.in/SFlex-StarShare/355543.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",KAN: Chintu TV SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",KAN: Chintu TV SD
 https://streamflexsmm.in/SFlex-StarShare/355546.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: DAILY POST PUNJABI
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: DAILY POST PUNJABI
 https://streamflexsmm.in/SFlex-StarShare/355552.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ: Gujarat First SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ: Gujarat First SD
 https://streamflexsmm.in/SFlex-StarShare/355553.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: Khabarain Abhi Tak SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: Khabarain Abhi Tak SD
 https://streamflexsmm.in/SFlex-StarShare/355554.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: Living India News SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: Living India News SD
 https://streamflexsmm.in/SFlex-StarShare/355555.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: News18 Bihar Jharkhand SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: News18 Bihar Jharkhand SD
 https://streamflexsmm.in/SFlex-StarShare/355557.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",KAN: Raj News Kannada SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",KAN: Raj News Kannada SD
 https://streamflexsmm.in/SFlex-StarShare/355559.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | TV",TM: SVBC 2 SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | TV",TM: SVBC 2 SD
 https://streamflexsmm.in/SFlex-StarShare/355560.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: Zee Bharat SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: Zee Bharat SD
 https://streamflexsmm.in/SFlex-StarShare/355562.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ: Aastha Gujarati
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ: Aastha Gujarati
 https://streamflexsmm.in/SFlex-StarShare/371443.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | TV",TM: DD Tamil
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | TV",TM: DD Tamil
 https://streamflexsmm.in/SFlex-StarShare/371554.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: First India Rajasthan
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: First India Rajasthan
 https://streamflexsmm.in/SFlex-StarShare/371555.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: IBC 24
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: IBC 24
 https://streamflexsmm.in/SFlex-StarShare/371558.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: India Daily Live
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: India Daily Live
 https://streamflexsmm.in/SFlex-StarShare/371559.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: MH One Shraddha
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: MH One Shraddha
 https://streamflexsmm.in/SFlex-StarShare/371561.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",MY: Marathi Special 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",MY: Marathi Special 1
 https://streamflexsmm.in/SFlex-StarShare/371565.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi: Marathi Special 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi: Marathi Special 2
 https://streamflexsmm.in/SFlex-StarShare/374552.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",Marathi: NDTV MARATHI
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",Marathi: NDTV MARATHI
 https://streamflexsmm.in/SFlex-StarShare/374570.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: NEWS LIVE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: NEWS LIVE
 https://streamflexsmm.in/SFlex-StarShare/374586.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: Republic Bangla
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: Republic Bangla
 https://streamflexsmm.in/SFlex-StarShare/376278.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",KAN: SVBC 3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",KAN: SVBC 3
 https://streamflexsmm.in/SFlex-StarShare/376281.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: Swadesh News
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: Swadesh News
 https://streamflexsmm.in/SFlex-StarShare/376295.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | ENTERTAINMENT",TM: Tamil Janam
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | ENTERTAINMENT",TM: Tamil Janam
 https://streamflexsmm.in/SFlex-StarShare/376319.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | TV",TM: Thanthi One
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | TV",TM: Thanthi One
 https://streamflexsmm.in/SFlex-StarShare/376324.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN:  TV9 BHARATVARSH
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN:  TV9 BHARATVARSH
 https://streamflexsmm.in/SFlex-StarShare/379763.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ: TV9
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ: TV9
 https://streamflexsmm.in/SFlex-StarShare/379779.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MARATHI | TV",MARATHI:  TV9 MARATHI
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MARATHI | TV",MARATHI:  TV9 MARATHI
 https://streamflexsmm.in/SFlex-StarShare/379783.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="INDIA | ENTERTAINMENT",IN: Zee Zest (4K)
 https://streamflexsmm.in/SFlex-StarShare/380446.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-telugu-news-in.png" group-title="TELUGU | TV",TL: Zee Telugu News
 https://streamflexsmm.in/SFlex-StarShare/380447.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",KN: ZEE KANNADA NEWS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",KN: ZEE KANNADA NEWS
 https://streamflexsmm.in/SFlex-StarShare/380448.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TAMIL | NEWS",TM: Raj News Tamil
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TAMIL | NEWS",TM: Raj News Tamil
 https://streamflexsmm.in/SFlex-StarShare/380978.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",KAN: Public Movies
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",KAN: Public Movies
 https://streamflexsmm.in/SFlex-StarShare/380979.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnLmKMZ/metelsky220700146.png" group-title="SPORTS | TENNIS",UK FHD : SKY SPORTS TENNIS FHD
 https://streamflexsmm.in/SFlex-StarShare/428098.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | HINDI MOVIES",Tata Play Bollywood Premiere HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | HINDI MOVIES",Tata Play Bollywood Premiere HD
 https://streamflexsmm.in/SFlex-StarShare/467485.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | HINDI MOVIES",Tata Play Hits HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | HINDI MOVIES",Tata Play Hits HD
 https://streamflexsmm.in/SFlex-StarShare/467494.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | HINDI MOVIES",Tata Play Theatre HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | HINDI MOVIES",Tata Play Theatre HD
 https://streamflexsmm.in/SFlex-StarShare/467662.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/rugby.png" group-title="SPORTS | RUGBY",Rugby Pass
 https://streamflexsmm.in/SFlex-StarShare/143132.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="BENGALI | TV",BD: MOVIE BANGLA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="BENGALI | TV",BD: MOVIE BANGLA
 https://streamflexsmm.in/SFlex-StarShare/510520.m3u8
 #EXTINF:-1 tvg-logo="http://starapk1.com/logo/rugby.png" group-title="SPORTS | RUGBY",SKY SPORTS 1
 https://streamflexsmm.in/SFlex-StarShare/514389.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",ROZANA SPOKESMAN
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",ROZANA SPOKESMAN
 https://streamflexsmm.in/SFlex-StarShare/534593.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",SAGA MUSIC HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",SAGA MUSIC HD
 https://streamflexsmm.in/SFlex-StarShare/534594.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",Tabber Hits
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",Tabber Hits
 https://streamflexsmm.in/SFlex-StarShare/534595.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",Balle Balle
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",Balle Balle
 https://streamflexsmm.in/SFlex-StarShare/534596.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS | FOX AUSTRALIA",|AU| FOX Sports 502 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="SPORTS | FOX AUSTRALIA",|AU| FOX Sports 502 HD
 https://streamflexsmm.in/SFlex-StarShare/415535.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB : WILD FLIX
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB : WILD FLIX
 https://streamflexsmm.in/SFlex-StarShare/606439.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsXSsp6r/Republic-Bharat-logo-svg.png" group-title="INDIA | NEWS",IN: REPUBLIC BHARAT
 https://streamflexsmm.in/SFlex-StarShare/609629.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XfFB8Vbq/BIG-TV-Malayalam.jpg" group-title="MALAYALAM | NEWS",MAL | BIG TV
 https://streamflexsmm.in/SFlex-StarShare/688561.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="KANNADA | TV",KAN: ZEE POWER HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="KANNADA | TV",KAN: ZEE POWER HD
 https://streamflexsmm.in/SFlex-StarShare/690813.m3u8
 #EXTINF:-1 tvg-logo="https://df6d.short.gy/curlimg2.jpg" group-title="TAMIL | MOVIES",TM: VIJAY SUPER (4K)
 https://streamflexsmm.in/SFlex-StarShare/1614.m3u8
@@ -1403,159 +1404,159 @@ https://streamflexsmm.in/SFlex-StarShare/136455.m3u8
 https://streamflexsmm.in/SFlex-StarShare/136442.m3u8
 #EXTINF:-1 tvg-logo="http://stariptv.fun/logos/tamil.png" group-title="TAMIL | MOVIES",TAMIL-DRAMA MOVIES 4 HD
 https://streamflexsmm.in/SFlex-StarShare/136424.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="GUJARATI | TV",GUJ: NEWS CAPITAL
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="GUJARATI | TV",GUJ: NEWS CAPITAL
 https://streamflexsmm.in/SFlex-StarShare/693039.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="TELUGU | TV",TL : CALVARY TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="TELUGU | TV",TL : CALVARY TV
 https://streamflexsmm.in/SFlex-StarShare/693040.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="SPORTS | FOOTBALL",TSN 1
 https://streamflexsmm.in/SFlex-StarShare/748388.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | ENTERTAINMENT",IN: SUN NEO FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | ENTERTAINMENT",IN: SUN NEO FHD
 https://streamflexsmm.in/SFlex-StarShare/773734.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | ENTERTAINMENT",IN: STAR GOLD THRILLS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | ENTERTAINMENT",IN: STAR GOLD THRILLS
 https://streamflexsmm.in/SFlex-StarShare/773735.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: GTC PUNJABI
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: GTC PUNJABI
 https://streamflexsmm.in/SFlex-StarShare/775202.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: SANJHI SOCH TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: SANJHI SOCH TV
 https://streamflexsmm.in/SFlex-StarShare/775203.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: VPS24 TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: VPS24 TV
 https://streamflexsmm.in/SFlex-StarShare/775204.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: JOO MUSIC
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: JOO MUSIC
 https://streamflexsmm.in/SFlex-StarShare/775205.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PITAARA COMEDY
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PITAARA COMEDY
 https://streamflexsmm.in/SFlex-StarShare/775206.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: INDO OZ TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: INDO OZ TV
 https://streamflexsmm.in/SFlex-StarShare/775207.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: WATNO PAAR PUNJABI
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: WATNO PAAR PUNJABI
 https://streamflexsmm.in/SFlex-StarShare/775208.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: PUNJABI SHORTS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: PUNJABI SHORTS
 https://streamflexsmm.in/SFlex-StarShare/775209.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: THE UN MUTE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: THE UN MUTE
 https://streamflexsmm.in/SFlex-StarShare/775210.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: GTC NEWS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: GTC NEWS
 https://streamflexsmm.in/SFlex-StarShare/776453.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: SANSAD TV 1 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: SANSAD TV 1 HD
 https://streamflexsmm.in/SFlex-StarShare/776454.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | NEWS",IN: SANSAD TV 2 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | NEWS",IN: SANSAD TV 2 HD
 https://streamflexsmm.in/SFlex-StarShare/776455.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | HINDI MOVIES",IN: BOLLYGOLD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | HINDI MOVIES",IN: BOLLYGOLD
 https://streamflexsmm.in/SFlex-StarShare/776456.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | ENTERTAINMENT",IN: KOREAN TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | ENTERTAINMENT",IN: KOREAN TV
 https://streamflexsmm.in/SFlex-StarShare/776457.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: MHONE NEWS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: MHONE NEWS
 https://streamflexsmm.in/SFlex-StarShare/776552.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: Desi Tashan
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: Desi Tashan
 https://streamflexsmm.in/SFlex-StarShare/776553.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB:  SGPC Sri Amritsar
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB:  SGPC Sri Amritsar
 https://streamflexsmm.in/SFlex-StarShare/776554.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: NAGARA TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: NAGARA TV
 https://streamflexsmm.in/SFlex-StarShare/776562.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: PURE PUNJABI 4K
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: PURE PUNJABI 4K
 https://streamflexsmm.in/SFlex-StarShare/776563.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: WINDOW PUNJAB TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: WINDOW PUNJAB TV
 https://streamflexsmm.in/SFlex-StarShare/776566.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: OYE MUSIC
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: OYE MUSIC
 https://streamflexsmm.in/SFlex-StarShare/776572.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: BRAVO PUNJABI
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: BRAVO PUNJABI
 https://streamflexsmm.in/SFlex-StarShare/776577.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: 24X7 AKHAND GURBANI
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: 24X7 AKHAND GURBANI
 https://streamflexsmm.in/SFlex-StarShare/776584.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: JINDABAD TV & RADIO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: JINDABAD TV & RADIO
 https://streamflexsmm.in/SFlex-StarShare/776592.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: DESI VAID TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: DESI VAID TV
 https://streamflexsmm.in/SFlex-StarShare/776616.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | HINDI MOVIES",IN: BOLLYWOOD MOVIES
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | HINDI MOVIES",IN: BOLLYWOOD MOVIES
 https://streamflexsmm.in/SFlex-StarShare/776640.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | HINDI MOVIES",IN: THE MOVIE CLUB
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | HINDI MOVIES",IN: THE MOVIE CLUB
 https://streamflexsmm.in/SFlex-StarShare/776641.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: JUST IN
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: JUST IN
 https://streamflexsmm.in/SFlex-StarShare/776642.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: AJJ DI AWAZ
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: AJJ DI AWAZ
 https://streamflexsmm.in/SFlex-StarShare/776643.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | HINDI MOVIES",IN: SOUTH STATION MOVIES
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | HINDI MOVIES",IN: SOUTH STATION MOVIES
 https://streamflexsmm.in/SFlex-StarShare/776644.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | HINDI MOVIES",IN: Big Star Bollywood
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | HINDI MOVIES",IN: Big Star Bollywood
 https://streamflexsmm.in/SFlex-StarShare/776646.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: PUNJAB TALKS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: PUNJAB TALKS
 https://streamflexsmm.in/SFlex-StarShare/776660.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: SAGA HARYANVI HITS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: SAGA HARYANVI HITS
 https://streamflexsmm.in/SFlex-StarShare/776703.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: THE NRI TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: THE NRI TV
 https://streamflexsmm.in/SFlex-StarShare/776705.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: HAMDARD TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: HAMDARD TV
 https://streamflexsmm.in/SFlex-StarShare/776708.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: D5 PUNJABI
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: D5 PUNJABI
 https://streamflexsmm.in/SFlex-StarShare/776709.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: ONLY MUSIC HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: ONLY MUSIC HD
 https://streamflexsmm.in/SFlex-StarShare/776710.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: Y PLUS HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: Y PLUS HD
 https://streamflexsmm.in/SFlex-StarShare/776711.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: VASDA PUNJAB TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: VASDA PUNJAB TV
 https://streamflexsmm.in/SFlex-StarShare/776712.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: ASIA TV CANADA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: ASIA TV CANADA
 https://streamflexsmm.in/SFlex-StarShare/776713.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: GURMAT TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: GURMAT TV
 https://streamflexsmm.in/SFlex-StarShare/776736.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: GLOBAL PUNJAB
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: GLOBAL PUNJAB
 https://streamflexsmm.in/SFlex-StarShare/776807.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: GLOBAL DESI
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: GLOBAL DESI
 https://streamflexsmm.in/SFlex-StarShare/776832.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: REAXDALE GURUGHAR TORONTO LIVE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: REAXDALE GURUGHAR TORONTO LIVE
 https://streamflexsmm.in/SFlex-StarShare/776847.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: GURUSIKH SABHA CANADA LIVE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: GURUSIKH SABHA CANADA LIVE
 https://streamflexsmm.in/SFlex-StarShare/776849.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: SANJHA PUNJAB USA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: SANJHA PUNJAB USA
 https://streamflexsmm.in/SFlex-StarShare/776956.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB:  APNA PUNJAB
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB:  APNA PUNJAB
 https://streamflexsmm.in/SFlex-StarShare/776957.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: RPD 24
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: RPD 24
 https://streamflexsmm.in/SFlex-StarShare/776964.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: TV 84
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: TV 84
 https://streamflexsmm.in/SFlex-StarShare/776965.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="INDIA | HINDI MOVIES",IN | SHEEMARO BOLLYWOOD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="INDIA | HINDI MOVIES",IN | SHEEMARO BOLLYWOOD
 https://streamflexsmm.in/SFlex-StarShare/784653.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="MALAYALAM | NEWS",MAL | KANNUR VISION
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="MALAYALAM | NEWS",MAL | KANNUR VISION
 https://streamflexsmm.in/SFlex-StarShare/792698.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS | TENNIS",MY| Astro Tennis FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="SPORTS | TENNIS",MY| Astro Tennis FHD
 https://streamflexsmm.in/SFlex-StarShare/795008.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS | TENNIS",CA-| TSN 2 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="SPORTS | TENNIS",CA-| TSN 2 HD
 https://streamflexsmm.in/SFlex-StarShare/795037.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS | TENNIS",CA-| TSN 3 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="SPORTS | TENNIS",CA-| TSN 3 HD
 https://streamflexsmm.in/SFlex-StarShare/795067.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | POLITICS PUNJAB
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | POLITICS PUNJAB
 https://streamflexsmm.in/SFlex-StarShare/796012.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | SIKH SPRITIUAL EDUCATION SOCIETY
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | SIKH SPRITIUAL EDUCATION SOCIETY
 https://streamflexsmm.in/SFlex-StarShare/796015.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | GURUDAWARA Gursikh Sabha Scarborough Canada
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | GURUDAWARA Gursikh Sabha Scarborough Canada
 https://streamflexsmm.in/SFlex-StarShare/796016.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | Gurdwara guru Nanak dabbar gore road brampton
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | Gurdwara guru Nanak dabbar gore road brampton
 https://streamflexsmm.in/SFlex-StarShare/796017.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | GURUDAWARA SIKH SPRITUAL CENTER TORONTO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | GURUDAWARA SIKH SPRITUAL CENTER TORONTO
 https://streamflexsmm.in/SFlex-StarShare/796018.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | TEHLKA TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | TEHLKA TV
 https://streamflexsmm.in/SFlex-StarShare/796019.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | PUNJAB MAIL TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | PUNJAB MAIL TV
 https://streamflexsmm.in/SFlex-StarShare/796020.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | PRIME ASIA TV - USA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | PRIME ASIA TV - USA
 https://streamflexsmm.in/SFlex-StarShare/796021.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | PRIME ASIA TV- CANADA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | PRIME ASIA TV- CANADA
 https://streamflexsmm.in/SFlex-StarShare/796022.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | GURUDAWARA DUKH NIVARAN SAHIB EDMITON
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | GURUDAWARA DUKH NIVARAN SAHIB EDMITON
 https://streamflexsmm.in/SFlex-StarShare/796023.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | MASTI STARZ
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | MASTI STARZ
 https://streamflexsmm.in/SFlex-StarShare/796024.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | SANJHA VIRSA MEDIA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | SANJHA VIRSA MEDIA
 https://streamflexsmm.in/SFlex-StarShare/796029.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | JOO MUSIC
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | JOO MUSIC
 https://streamflexsmm.in/SFlex-StarShare/796033.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | GAUNDA PUNJAB
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | GAUNDA PUNJAB
 https://streamflexsmm.in/SFlex-StarShare/796046.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB | BINGE TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB | BINGE TV
 https://streamflexsmm.in/SFlex-StarShare/796527.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB : APNA PUNJAB
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB : APNA PUNJAB
 https://streamflexsmm.in/SFlex-StarShare/808256.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: PUNJABI TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: PUNJABI TV
 https://streamflexsmm.in/SFlex-StarShare/808257.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: PUNJABI MUSIC HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: PUNJABI MUSIC HD
 https://streamflexsmm.in/SFlex-StarShare/808258.m3u8
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="PUNJABI | TV",PB: NANAKSAR LIVE FASTWAY
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a2/ea/c8/a2eac8554c5cd044ddfc7f4a59a4d304.jpg" group-title="PUNJABI | TV",PB: NANAKSAR LIVE FASTWAY
 https://streamflexsmm.in/SFlex-StarShare/808261.m3u8
