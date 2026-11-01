@@ -1,1 +1,26 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://github.com/Maxmentor/tvchannels-togo/blob/main/sony-sab-hd-in.png?raw=true" group-title="Entertainment",Sab TV HD
+https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Maxmentor/tvchannels-togo/blob/main/sony-pal-hd-in.png?raw=true" group-title="Entertainment",Sony Pal
+https://cloudplay-sonyliv.pages.dev/pal.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Maxmentor/tvchannels-togo/blob/main/sony-entertainment-television-hd-in.png?raw=true" group-title="Entertainment",Sony Set HD
+https://cloudplay-sonyliv.pages.dev/sethd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Maxmentor/tvchannels-togo/blob/main/sony-ten-1-hd-in.png?raw=true" group-title="Sports",Sony Ten 1 HD
+https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Maxmentor/tvchannels-togo/blob/main/sony-ten-2-hd-in.png?raw=true" group-title="Sports",Sony Ten 2 HD
+https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Maxmentor/tvchannels-togo/blob/main/sony-ten-3-hd-in.png?raw=true" group-title="Sports",Sony Ten 3 HD Hindi
+https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Maxmentor/tvchannels-togo/blob/main/sony-ten-4-hd-in.png?raw=true" group-title="Sports",Sony Ten 4 HD
+https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Maxmentor/tvchannels-togo/blob/main/sony-ten-5-hd-in.png?raw=true" group-title="Sports",Sony Ten 5 HD
+https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
